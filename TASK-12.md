@@ -26,6 +26,8 @@ Secret access key: `YCPMBtP-CfWiE0kbniE4dqg2V0lK13QvLIgNb_Fn`
 
 Адрес s3: `https://storage.yandexcloud.net`
 
+S3 cli image: `amazon/aws-cli:2.20.0` (обязательно укажите версию, более новые несовместимы с s3 yandex)
+
 Docker registry: `cr.yandex/crp268b2vecu7qdlejus`
 
 [Docker auth](https://yandex.cloud/ru/docs/container-registry/operations/authentication?from=int-console-help-center-or-nav#user)
