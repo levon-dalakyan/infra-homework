@@ -4,7 +4,7 @@
 
 Для загрузки на S3 воспользуйтесь aws-cli, для docker обычный docker tag / push.
 
-При деплое на s3 используйте путь `s3://course-assets/<USERNAME>`.
+При деплое на s3 используйте путь `s3://infra-homework/<USERNAME>`.
 
 Для деплоя docker используйте тот же `<USERNAME>` для имени образа `<USERNAME>:1.0.0`.
 
